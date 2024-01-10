@@ -8,6 +8,7 @@
     --border-bold:.5rem solid var(var(--black));
     --border-light:.2rem solid var(--black);
 }
+
 *{
     font-family: 'Rubik' , sans-serif, Calibri;
     margin: 0;
@@ -19,3 +20,8 @@
     text-decoration: none;
     color: var(--black);
 }
+
+*::selection
+*::-webkit-scrollbar
+*::-webkit-scrollbar-track
+*::-webkit-scrollbar-thumb
