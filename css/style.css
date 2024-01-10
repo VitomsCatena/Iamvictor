@@ -17,4 +17,5 @@
     border: none;
     text-transform: capitalize;
     text-decoration: none;
+    color: var(--black);
 }
