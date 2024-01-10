@@ -8,3 +8,8 @@
     --border-bold:.5rem solid var(var(--black));
     --border-light:.2rem solid var(--black);
 }
+*{
+    font-family: 'Rubik' , sans-serif, Calibri;
+    margin: 0;
+    padding: 0;
+}
