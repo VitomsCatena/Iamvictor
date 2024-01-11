@@ -4,4 +4,5 @@ let header = document.querySelector('.header');
 menu.onclick = () => {
     menu.classList.toggle('fa-times');
     menu.classList.toggle('active');
+    document.body.classList.toggle('active');
 }
