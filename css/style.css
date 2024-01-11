@@ -70,5 +70,6 @@ body{
 .header .logo{
     text-transform: uppercase;
     border-bottom: var(--border-bold);
-    
+    font-weight: bolder;
+    font-size: 5rem;
 }
