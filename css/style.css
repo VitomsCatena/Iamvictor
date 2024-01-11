@@ -77,7 +77,7 @@ body.active{
     text-transform: uppercase;
     border-bottom: var(--border-bold);
     font-weight: bold;
-    font-size: 3rem;
+    font-size: 4rem;
 }
 
 .header .navbar a{
