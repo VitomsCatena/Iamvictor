@@ -109,7 +109,7 @@ body.active{
 
 #menu-btn{
     position: absolute;
-    top: 0; left:-5.5rem;
+    top: 0; right:-5.5rem;
     height:4.5rem;
     line-height: 4.5rem;
     width: 5rem;
