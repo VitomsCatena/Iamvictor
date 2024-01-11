@@ -102,3 +102,9 @@ body{
 .header .follow a:hover{
     transform: rotate(360deg);
 }
+
+#menu-btn{
+    position: absolute;
+    top: 0; left:-5.5rem;
+    height:4.5rem;
+}
