@@ -10,7 +10,7 @@ menu.onclick = () => {
 window.onscroll = () =>{
 if (window.innerWidth < 991){
     menu.classList.remove('fa-times');
-    menu.classList.remove('active');
+    header.classList.remove('active');
     document.body.classList.remove('active');
   }
 }
