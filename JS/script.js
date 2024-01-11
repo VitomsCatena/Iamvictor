@@ -6,3 +6,9 @@ menu.onclick = () => {
     menu.classList.toggle('active');
     document.body.classList.toggle('active');
 }
+
+window.onscroll = () =>{
+if (window.innerwidth < 991){
+
+  }
+}
