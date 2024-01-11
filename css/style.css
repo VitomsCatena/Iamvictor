@@ -138,7 +138,7 @@ body.active{
     html{
         font-size: 50%;
     }
-    .header{
+    .header.active{
         padding-top: 7rem;
     }
     #menu-btn.fa-times{
