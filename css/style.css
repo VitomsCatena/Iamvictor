@@ -97,7 +97,7 @@ body.active{
 }
 
 .header .follow a{
- font-size: 2rem;
+ font-size: 3rem;
  margin:0 1rem;
  cursor: pointer;
  transition: .9s linear !important;
@@ -138,6 +138,7 @@ body.active{
 
 
 /*media querry*/
+
 @media (max-width:997px){
     html{
         font-size: 55%;
