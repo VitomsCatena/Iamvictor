@@ -40,5 +40,7 @@
 }
 
 html{
-
+font-size: 62%;
+overflow-x: hidden;
+scroll-behavior: smooth;
 }
