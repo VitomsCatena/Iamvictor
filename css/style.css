@@ -44,3 +44,8 @@ font-size: 62%;
 overflow-x: hidden;
 scroll-behavior: smooth;
 }
+
+body{
+    overflow: hidden;
+    transition: .2s linear !important;
+}
