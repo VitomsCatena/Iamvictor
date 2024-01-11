@@ -74,9 +74,7 @@ body.active{
 /* logo */
 
 .header .logo{
-    text-transform: uppercase;
-    border-bottom: var(--border-bold);
-    font-weight: bold;
+
     font-size: 4rem;
 }
 
