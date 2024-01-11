@@ -55,5 +55,6 @@ body{
     top: 0;
     left: 0;
     height: 100vh;
-    
+    background-color: var(--white);
+    border-right: var(--border-bold);
 }
