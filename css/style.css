@@ -96,4 +96,9 @@ body{
  font-size: 2rem;
  margin:0 1rem;
  cursor: pointer;
+ transition: .2s linear !important;
+}
+
+.header .follow a:hover{
+    transform: rotate(360deg);
 }
