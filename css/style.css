@@ -92,6 +92,7 @@ body.active{
 .header .navbar a.active,
 .header .navbar a:hover{
     background-color: var(--yellow);
+    border-radius: 10%;
 }
 
 .header .follow a{
