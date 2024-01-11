@@ -59,4 +59,7 @@ body{
     border-right: var(--border-bold);
     width: 35rem;
     padding: 3rem 2rem;
+    text-align: center;
+    align-items: center;
+    display: flex;
 }
