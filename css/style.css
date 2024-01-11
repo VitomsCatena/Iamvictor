@@ -58,5 +58,5 @@ body{
     background-color: var(--white);
     border-right: var(--border-bold);
     width: 35rem;
-    padding: 2rem;
+    padding: 3rem 2rem;
 }
