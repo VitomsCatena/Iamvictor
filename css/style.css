@@ -91,3 +91,9 @@ body{
 .header .navbar a:hover{
     background-color: var(--yellow);
 }
+
+.header .follow a{
+ font-size: 2rem;
+ margin:0 1rem;
+ cursor: pointer;
+}
