@@ -67,9 +67,15 @@ body{
     text-align: center;
 }
 
+/* logo */
+
 .header .logo{
     text-transform: uppercase;
     border-bottom: var(--border-bold);
     font-weight: bolder;
     font-size: 5rem;
+}
+
+.header .navbar{
+    
 }
