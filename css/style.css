@@ -63,4 +63,6 @@ body{
     display: flex;
     justify-content: space-between;
     flex-flow: column;
+    transition: .2s linear !important;
+    text-align: center;
 }
