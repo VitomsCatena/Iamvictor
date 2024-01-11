@@ -66,3 +66,9 @@ body{
     transition: .2s linear !important;
     text-align: center;
 }
+
+.header .logo{
+    text-transform: uppercase;
+    border-bottom: var(--border-bold);
+    
+}
