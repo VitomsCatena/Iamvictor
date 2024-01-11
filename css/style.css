@@ -80,14 +80,14 @@ body.active{
     font-size: 4rem;
 }
 
-.header .navbar a{
+.header .navbar{
     width: 100%;
 }
 
 .header .navbar a{
    display: block;
-   font-size: 2rem;
-   padding: 1rem;
+   font-size: 2.5rem;
+   padding: 1.5rem;
    margin: .5rem;
 }
 
