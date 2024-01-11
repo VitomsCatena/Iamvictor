@@ -128,6 +128,9 @@ body.active{
     html{
         font-size: 55%;
     }
+body.active{
+    padding-left: 0;
+}
 
 }
 
@@ -135,5 +138,10 @@ body.active{
     html{
         font-size: 50%;
     }
-    
+    .header{
+        padding-top: 7rem;
+    }
+    #menu-btn.fa-times{
+        right: 0;
+    }
 }
