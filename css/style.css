@@ -137,6 +137,17 @@ body.active{
 
 /*media querry*/
 
+@media (max-width:1200px){
+    html{
+        font-size: 60%;
+    }
+body.active{
+    padding-left: 0;
+}
+
+}
+
+
 @media (max-width:997px){
     html{
         font-size: 55%;
@@ -155,6 +166,18 @@ body.active{
         padding-top: 7rem;
     }
     #menu-btn.fa-times{
+        right:0;
+    }
+}
+
+@media (max-width:100px){
+    html{
+        font-size: 30%;
+    }
+body.active{
+    padding-left: 6rem;
+}
+  #menu-btn.fa-times{
         right:0;
     }
 }
