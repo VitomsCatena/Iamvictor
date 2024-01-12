@@ -66,13 +66,15 @@ section{
     display: inline-block;
     margin-top:1rem;
     cursor: pointer;
-    background-color: var(--black);
-    color: var(--white);
+    padding:1rem 2rem;
+    border: var(--border-light);
+    color: var(--black);
     font-size: 2rem;
 }
 
 .btn:hover{
     background-color: var(--black); 
+    color: var(--white);
 }
 
 /*header-tag styles*/
@@ -151,6 +153,7 @@ section{
     align-items: center;
     flex-wrap: wrap;
     gap:2rem;
+    
 }
 
 .home .image{
