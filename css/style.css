@@ -54,6 +54,14 @@ body.active{
  padding-left: 35rem;
 }
 
+
+section{
+    padding:3rem 2rem;
+    margin:0 auto;
+}
+
+
+
 /*header-tag styles*/
 .header{
     position: fixed;
