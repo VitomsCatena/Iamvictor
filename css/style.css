@@ -134,7 +134,12 @@ section{
 
 /*end of header tags section*/
 
-
+.home{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:2rem;
+}
 
 
 
