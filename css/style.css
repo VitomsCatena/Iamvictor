@@ -5,7 +5,7 @@
     --black: #000;
     --white: #fff;
     --light-bg: #eee;
-    --border-bold:.5rem solid var(var(--black));
+    --border-bold:5rem solid var(var(--black));
     --border-light:.2rem solid var(--black);
 }
 
@@ -139,6 +139,10 @@ section{
     align-items: center;
     flex-wrap: wrap;
     gap:2rem;
+}
+
+.home .image{
+
 }
 
 .home .image img{
