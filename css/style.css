@@ -227,8 +227,13 @@ body.active{
     #menu-btn.fa-times{
         right:0;
     }
+.home .image img{
+    height: auto;
+    width: 100%;
+}
 }
 
+/*this is just an extra one*/
 @media (max-width:100px){
     html{
         font-size: 30%;
