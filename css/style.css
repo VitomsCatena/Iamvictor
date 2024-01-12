@@ -151,7 +151,12 @@ section{
     border: var(--black);
 }
 
-
+.home .content{
+    flex:1 1 40rem;
+   }
+.home .content h3{
+    text-transform: uppercase;
+}
 
 
 
