@@ -156,6 +156,8 @@ section{
    }
 .home .content h3{
     text-transform: uppercase;
+    font-size: 5rem;
+    margin-left: .3rem;
 }
 
 
