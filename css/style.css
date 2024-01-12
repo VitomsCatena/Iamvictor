@@ -144,7 +144,7 @@ section{
 .home .image img{
     height: 65rem;
     padding: 2rem;
-    
+    border: var(--black);
 }
 
 
