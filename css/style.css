@@ -58,8 +58,9 @@ body.active{
 section{
     padding:3rem 2rem;
     margin:0 auto;
+    max-width: 1200px;
+    text-align: center;
 }
-
 
 
 /*header-tag styles*/
