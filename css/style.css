@@ -71,6 +71,10 @@ section{
     font-size: 2rem;
 }
 
+.btn:hover{
+    background-color: var(--black); 
+}
+
 /*header-tag styles*/
 .header{
     position: fixed;
