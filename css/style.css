@@ -163,6 +163,8 @@ section{
 .home .content span{
     display: inline-block;
     padding: 2rem;
+    font-size: 2rem;
+    background-color: var(--yellow);
 }
 
 
