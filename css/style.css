@@ -293,12 +293,17 @@ body.active{
 .about .skills .progress .bar{
    margin: 1rem auto;
    max-width: 70rem;
-   padding:1rem;
    border: var(--border-bold);
+   
+}
+
+.about .skills .progress .bar h3{
    align-items: center;
+   padding: 1rem;
    display: flex;
    justify-content: space-between;
    background-color: var(--yellow);
+
 }
 
 .about .skills .progress .bar span{
