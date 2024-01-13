@@ -298,11 +298,11 @@ body.active{
    align-items: center;
    display: flex;
    justify-content: space-between;
+   background-color: var(--yellow);
 }
 
 .about .skills .progress .bar span{
     padding: 2rem;
-    background-color: var(--yellow);
     font-size: 2rem;
 }
 
