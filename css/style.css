@@ -209,7 +209,11 @@ section{
 }
 
 .about.biography .bio{
-    
+    margin-top: 1rem;
+}
+
+.about.biography .bio h3{
+
 }
 
 
