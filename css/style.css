@@ -243,6 +243,9 @@ body.active{
     height: auto;
     width: 100%;
 }
+.heading span{
+    font-size: 4rem;
+}
 
 }
 
