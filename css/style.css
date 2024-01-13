@@ -282,7 +282,10 @@ body.active{
 }
 
 /*skills section*/
-
+.about .skills{
+    margin: 3rem 0;
+    
+}
 
 
 /*end of skill section */
