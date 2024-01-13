@@ -219,6 +219,8 @@ section{
    background-color: var(--light-bg);
    border: var(--border-light);
    word-break: break-all;
+   font-size: 2.5rem;
+   font-weight: normal;
 }
 
 
