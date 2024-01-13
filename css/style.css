@@ -286,9 +286,12 @@ body.active{
     margin: 3rem 0;
 }
 
-.about .skills .progress{
-
+.about .skills .progress .bar{
+   margin: 1rem auto;
+   max-width: 70rem;
 }
+
+
 
 
 
