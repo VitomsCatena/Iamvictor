@@ -289,6 +289,8 @@ body.active{
 .about .skills .progress .bar{
    margin: 1rem auto;
    max-width: 70rem;
+   padding: 1rem;
+   border: var(--border-bold);
 }
 
 
