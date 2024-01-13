@@ -201,14 +201,14 @@ section{
     padding:1rem 0;
 }
 
-.about.biography p{
+.about .biography p{
     margin:1rem auto;
     max-width: 70rem;
     line-height: 1.5;
     font-size:1.5rem;
 }
 
-.about.biography .bio{
+.about .biography .bio{
     margin-top: 1rem;
 }
 
