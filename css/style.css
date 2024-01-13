@@ -284,8 +284,13 @@ body.active{
 /*skills section*/
 .about .skills{
     margin: 3rem 0;
-    
 }
+
+.about .skills .progress{
+
+}
+
+
 
 
 /*end of skill section */
