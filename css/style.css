@@ -202,7 +202,8 @@ section{
 }
 
 .about.biography p{
-    
+    margin:1rem auto;
+    max-width: 70rem;
 }
 
 
