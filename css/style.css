@@ -217,6 +217,7 @@ section{
    display: inline-block;
    margin: 1rem;
    background-color: var(--light-bg);
+   border: var(--border-light);
 }
 
 
