@@ -308,8 +308,7 @@ body.active{
 }
 
 .about .skills .progress .bar span{
-    padding: 2rem;
-    font-size: 2rem;
+    font-weight: normal;
 }
 
 
