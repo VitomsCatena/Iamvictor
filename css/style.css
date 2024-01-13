@@ -297,9 +297,14 @@ body.active{
    border: var(--border-bold);
    align-items: center;
    display: flex;
+   justify-content: space-between;
 }
 
-.about .skills .progress .bar
+.about .skills .progress .bar span{
+    padding: 2rem;
+    background-color: var(--yellow);
+    font-size: 2rem;
+}
 
 
 
@@ -308,7 +313,7 @@ body.active{
 /*end of skill section */
 
 /*this is just an extra one*/
-@media (max-width:100px){
+@media(max-width:100px){
     html{
         font-size: 30%;
     }
