@@ -286,13 +286,20 @@ body.active{
     margin: 3rem 0;
 }
 
+.about .skills .progress{
+    margin-top:1rem;
+}
+
 .about .skills .progress .bar{
    margin: 1rem auto;
    max-width: 70rem;
    padding:1rem;
    border: var(--border-bold);
+   align-items: center;
+   display: flex;
 }
 
+.about .skills .progress .bar
 
 
 
