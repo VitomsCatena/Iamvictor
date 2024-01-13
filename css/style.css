@@ -214,6 +214,9 @@ section{
 
 .about.biography .bio h3{
    padding: 1rem 1.5rem;
+   display: inline-block;
+   margin: 1rem;
+   background-color: var(--light-bg);
 }
 
 
