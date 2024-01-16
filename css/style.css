@@ -357,6 +357,11 @@ body.active{
     flex: 1 1 40rem;
 }
 
+.bout .edu-exp .row .box-container .box{
+    text-align: left;
+}
+
+
 /*end of skill section */
 
 /*this is just an extra one*/
