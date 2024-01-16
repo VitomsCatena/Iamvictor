@@ -360,6 +360,7 @@ body.active{
 .about .edu-exp .row .box-container .title{
     padding: 1.5rem;
     font-size: 2rem;
+    background-color: var(--yellow);
 }
 
 .about .edu-exp .row .box-container .box{
