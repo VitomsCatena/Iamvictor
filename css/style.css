@@ -310,6 +310,7 @@ body.active{
 
 .about .skills .progress .bar span{
     font-weight: normal;
+
 }
 
 .about .skills .progress .bar:nth-child(1) h3{
