@@ -347,8 +347,8 @@ body.active{
 
 /*experience section style*/
 
-.about .edu-exp{
-    
+.about .edu-exp .row{
+    display: flex;
 }
 
 
