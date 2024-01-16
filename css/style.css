@@ -357,7 +357,12 @@ body.active{
     flex: 1 1 40rem;
 }
 
-.bout .edu-exp .row .box-container .box{
+.about .edu-exp .row .box-container .title{
+    padding: 1.5rem;
+    font-size: 2rem;
+}
+
+.about .edu-exp .row .box-container .box{
     text-align: left;
 }
 
