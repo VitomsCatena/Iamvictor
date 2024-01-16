@@ -367,8 +367,12 @@ body.active{
     text-align: left;
     background-color: var(--light-bg);
     margin: 1.5rem 0;
+    padding: 2rem;
 }
 
+.about .edu-exp .row .box-container .box span{
+    
+}
 
 /*end of skill section */
 
