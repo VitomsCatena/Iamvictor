@@ -349,6 +349,8 @@ body.active{
 
 .about .edu-exp .row{
     display: flex;
+    gap: 1.5rem;
+    flex-wrap: wrap;
 }
 
 
