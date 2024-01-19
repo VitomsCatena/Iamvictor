@@ -399,7 +399,9 @@ body.active{
     padding:3rem 2rem;
 }
 
-
+.services .box-container .box i{
+    margin-bottom: .5rem;
+}
 
 
 
