@@ -421,7 +421,9 @@ body.active{
     background-color: var(--black);
 }
 
-
+.services .box-container .box:hover i{
+    
+}
 
 
 
