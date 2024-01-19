@@ -388,6 +388,7 @@ body.active{
 
 .services .box-container{
       display: grid;
+      grid-template-columns: repeat();
 
 }
 
