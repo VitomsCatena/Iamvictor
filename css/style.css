@@ -387,8 +387,8 @@ body.active{
 }
 
 .services .box-container{
+      display: grid;
 
-    
 }
 
 
