@@ -388,7 +388,7 @@ body.active{
 
 .services .box-container{
       display: grid;
-      grid-template-columns: repeat();
+      grid-template-columns: repeat(auto-fit,);
 
 }
 
