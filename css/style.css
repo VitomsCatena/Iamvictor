@@ -396,7 +396,7 @@ body.active{
 
 .services .box-container .box{
     border: var(--border-light);
-    padding: 2rem;
+    padding:3rem 2rem;
 }
 
 
