@@ -386,6 +386,7 @@ body.active{
     font-size: 1.7rem;
 }
 
+/*start of service section*/
 .services .box-container{
       display: grid;
       grid-template-columns: repeat(auto-fit,minmax(30rem, 1fr));
@@ -429,7 +430,7 @@ body.active{
     color:var(--white);
 }
 
-/*end of skill section */
+/*end of service section */
 
 /*this is just an extra one*/
 @media(max-width:100px){
