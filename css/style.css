@@ -422,10 +422,12 @@ body.active{
 }
 
 .services .box-container .box:hover i{
-    color:var(--white);
+    color: var(--white);
 }
 
-
+.services .box-container .box:hover p{
+    color:var(--white);
+}
 
 /*end of skill section */
 
