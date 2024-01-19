@@ -418,7 +418,7 @@ body.active{
 }
 
 .services .box-container .box:hover{
-    
+    background-color: var(--light-bg);
 }
 
 
