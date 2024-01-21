@@ -491,4 +491,5 @@ body.active{
 
 .contact form{
     max-width: 70rem;
+    margin: 0 auto;
 }
