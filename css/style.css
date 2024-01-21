@@ -460,3 +460,8 @@ body.active{
       align-items: flex-start;
 
 }
+
+.portfolio .box-container img{
+    height: 30rem;
+    width: 100%;
+}
