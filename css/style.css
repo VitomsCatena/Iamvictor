@@ -490,5 +490,5 @@ body.active{
 /*contact section start here */
 
 .contact form{
-    
+    max-width: 70rem;
 }
