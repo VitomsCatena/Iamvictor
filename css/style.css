@@ -464,4 +464,5 @@ body.active{
 .portfolio .box-container img{
     height: 30rem;
     width: 100%;
+    object-fit: cover;
 }
