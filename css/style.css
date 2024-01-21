@@ -523,4 +523,5 @@ body.active{
 .credit{
     text-align: center;
     background-color: var(--black);
+    font-size: 2rem;
 }
