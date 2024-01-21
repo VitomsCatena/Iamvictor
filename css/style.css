@@ -281,6 +281,22 @@ body.active{
 
 }
 
+/*this is just an extra one*/
+@media(max-width:100px){
+    html{
+        font-size: 30%;
+    }
+body.active{
+    padding-left: 1rem;
+}
+  #menu-btn.fa-times{
+        right:0;
+    }
+}
+
+
+
+
 /*skills section*/
 .about .skills{
     margin: 3rem 0;
