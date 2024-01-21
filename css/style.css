@@ -481,6 +481,9 @@ body.active{
     opacity: .2;
 }
 
+.portfolio .box-container .box:hover{
+    opacity: 1;
+}
 
 
 
