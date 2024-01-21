@@ -504,7 +504,8 @@ body.active{
 }
 
 .contact form textarea{
-    
+    resize: none;
+    height: 20rem;
 }
 
 /*end of contact section*/
