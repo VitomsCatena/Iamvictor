@@ -499,6 +499,8 @@ body.active{
     width: 100%;
     text-transform: none;
     font-size: 2rem;
+    border: var(--border-light);
+    margin: 1rem 0;
 }
 
 
