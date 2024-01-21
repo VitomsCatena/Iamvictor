@@ -405,6 +405,7 @@ body.active{
 /*end of skill section*/
 
 /*start of service section*/
+
 .services .box-container{
       display: grid;
       grid-template-columns: repeat(auto-fit,minmax(30rem, 1fr));
