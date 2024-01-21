@@ -514,7 +514,7 @@ body.active{
    justify-content: space-between;
 }
 
-.contact form .flex box{
+.contact form .flex .box{
     width: 49%;
 }
 
