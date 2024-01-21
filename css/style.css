@@ -478,7 +478,7 @@ body.active{
 }
 
 .portfolio .box-container:hover .box{
-    
+    opacity: .2;
 }
 
 
