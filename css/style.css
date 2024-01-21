@@ -468,5 +468,6 @@ body.active{
 }
 
 .portfolio .box-container .box  h3{
-
+   font-size: 2rem;
+   margin: 1rem 0;
 }
