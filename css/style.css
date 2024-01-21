@@ -497,4 +497,5 @@ body.active{
 .contact form .box{
     padding: 1.4rem;
     width: 100%;
+    text-transform: none;
 }
