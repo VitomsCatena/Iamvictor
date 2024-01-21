@@ -476,3 +476,12 @@ body.active{
 .portfolio .box-container .box span{
     font-size: 1.7rem;
 }
+
+.portfolio .box-container:hover .box{
+    
+}
+
+
+
+
+
