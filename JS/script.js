@@ -14,5 +14,5 @@ if (window.innerWidth < 991){
     document.body.classList.remove('active');
   }
 
-  document.querySelectorAll('')
+  document.querySelectorAll('section').forEach()
 }
