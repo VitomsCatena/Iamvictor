@@ -519,10 +519,15 @@ body.active{
 }
 
   .contact .box-container{
-    
+      display: grid;
+      grid-template-columns: repeat(auto-fit,minmax(30rem, 1fr));
+      gap: 1.5rem;
+      align-items: flex-start;
   }
  
 /*end of contact section*/
+
+
 
 .credit{
     text-align: center;
