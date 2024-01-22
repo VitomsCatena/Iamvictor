@@ -23,7 +23,7 @@ if (window.innerWidth < 991){
     if (top >= offset && top < offset + height){
       document.querySelectorAll('.header .navbar a').forEach(links =>{
           links.classList.remove('active'); 
-           document.querySelector('.header .navbar a[href*='+ id +']')
+           document.querySelector('.header .navbar a[href*='+ id +']').classList.add('active');
       });
     };
 
