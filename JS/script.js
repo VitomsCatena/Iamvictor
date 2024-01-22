@@ -20,6 +20,8 @@ if (window.innerWidth < 991){
     let height = sec.offsetHeight;
     let id = sec.getAttribute('id');
 
-    if (top >= offset && top < offset + )
+    if (top >= offset && top < offset + height){
+      
+    }
   });
 }
