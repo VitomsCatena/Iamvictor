@@ -21,7 +21,9 @@ if (window.innerWidth < 991){
     let id = sec.getAttribute('id');
 
     if (top >= offset && top < offset + height){
-      
+
+      document.querySelectorAll()
+
     }
   });
 }
