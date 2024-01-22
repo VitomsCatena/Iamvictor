@@ -21,9 +21,9 @@ if (window.innerWidth < 991){
     let id = sec.getAttribute('id');
 
     if (top >= offset && top < offset + height){
-
       document.querySelectorAll('.header .navbar a').forEach(links =>{
           links.classList.remove('active'); 
+           document.querySelectorAll('.header .navbar a').
       });
     };
 
