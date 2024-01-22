@@ -15,6 +15,7 @@ if (window.innerWidth < 991){
   }
 
   document.querySelectorAll('section').forEach(sec =>{
+    let top = window.screenY
 
   });
 }
