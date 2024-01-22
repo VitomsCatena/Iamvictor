@@ -23,9 +23,9 @@ if (window.innerWidth < 991){
     if (top >= offset && top < offset + height){
 
       document.querySelectorAll('.header .navbar a').forEach(links =>{
-        
-      })
-
-    }
+          links.classList
+      });
+    };
+    
   });
 }
