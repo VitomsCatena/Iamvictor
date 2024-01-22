@@ -534,6 +534,8 @@ body.active{
 
 .contact .box-container .box i{
     font-size: 2rem;
+    line-height: 5rem;
+    height: 5rem;
 }
 
 .contact .box-container .box h3{
