@@ -533,10 +533,10 @@ body.active{
   }
 
 .contact .box-container .box i{
-    font-size: 2rem;
-    line-height: 5rem;
-    height: 5rem;
-    width: 5rem;
+    font-size: 3rem;
+    line-height: 7rem;
+    height: 7rem;
+    width: 7rem;
     color: var(--white);
     background-color: var(--black);
     margin-bottom: .5rem;
