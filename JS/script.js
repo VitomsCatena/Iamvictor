@@ -22,7 +22,7 @@ if (window.innerWidth < 991){
 
     if (top >= offset && top < offset + height){
 
-      document.querySelectorAll()
+      document.querySelectorAll('.header .navbar a')
 
     }
   });
