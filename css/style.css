@@ -539,6 +539,7 @@ body.active{
     width: 5rem;
     color: var(--white);
     background-color: var(--black);
+    margin-bottom: .5rem;
 }
 
 .contact .box-container .box h3{
@@ -547,7 +548,7 @@ body.active{
 }
 
 .contact .box-container .box p{
-    font-size: 1.7rem;
+    font-size: 2rem;
     text-transform: none;
 }
 
