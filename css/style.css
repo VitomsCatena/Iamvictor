@@ -537,6 +537,8 @@ body.active{
     line-height: 5rem;
     height: 5rem;
     width: 5rem;
+    color: var(--white);
+    background-color: var(--black);
 }
 
 .contact .box-container .box h3{
